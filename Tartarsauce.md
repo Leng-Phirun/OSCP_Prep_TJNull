@@ -1,4 +1,5 @@
 Machine: https://app.hackthebox.com/machines/138
+
 IP: 10.10.10.88
 
 # Enumeration
