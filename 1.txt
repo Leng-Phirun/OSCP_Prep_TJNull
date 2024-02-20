@@ -1,0 +1,15 @@
+DNS
+
+dig axfr @ip
+
+LDAP
+
+List module
+crackmapexec ldap 10.10.10.10 -u '' -p '' -L
+
+Use module (user description)
+crackmapexec ldap 10.10.10.10 -u '' -p '' -M user-desc
+
+bloodyad - tool for AD enum | get all user
+
+
