@@ -170,6 +170,9 @@ Another trick from GTFOBins also works
 
 `sudo vi /var/www/html/a -c ':!/bin/sh'`
 
+user.txt  918c2be1a0ab5e55f4587526278dc7cf
+root.txt  9ed050abeb8b5f106896956296156d21
+
 # Beyond Root
 
 
